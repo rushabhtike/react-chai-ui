@@ -17,7 +17,7 @@ class ChatTitle extends Component {
                 </div >
                 <div>
                     <form onSubmit={this.refresh}>
-                        <input type="submit" id="changeroom" value="Change Room" className="BUTTON_FZW"></input>
+                        <input type="submit" id="changeroom" value="Change Room" ></input>
                     </form>
                 </div>
             </div >
